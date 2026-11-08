@@ -5,3 +5,10 @@ local/*.log
 local/.schema_applied
 __pycache__/
 .venv/
+
+# docs 폴더에 임시로 두는 이미지(에이전트 사진 등)는 공개 저장소에 올리지 않는다
+docs/*.gif
+docs/*.png
+docs/*.jpg
+docs/*.jpeg
+docs/*.webp
