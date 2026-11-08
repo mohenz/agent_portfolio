@@ -1,0 +1,7 @@
+local/postgres-data/
+local/media/
+local/backups/
+local/*.log
+local/.schema_applied
+__pycache__/
+.venv/
